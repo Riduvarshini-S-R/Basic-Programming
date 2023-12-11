@@ -1,2 +1,3 @@
 # Basic-Programming
-Basic math logic programs
+
+Some basic logics which are essential for problem solving
